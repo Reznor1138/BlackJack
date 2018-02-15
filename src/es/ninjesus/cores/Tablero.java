@@ -1,4 +1,4 @@
-package es.ninjesus.core;
+package es.ninjesus.cores;
 
 public class Tablero {
 
