@@ -99,7 +99,7 @@ public class Juego extends JFrame implements ActionListener{
             dealerPanel.add(new JLabel(new ImageIcon("cards/" + croupier.cartas[i].toString())));
         }
         if (jugador.value() > 21) {
-            jlblStatus.setText("El jugador se pasa");
+            jlblStatus.setText("El jugador se pasa!");
         } else if (croupier.value() > 21) {
             jlblStatus.setText("La Casa se pasa");
         } else if (croupier.value() == jugador.value()) {
