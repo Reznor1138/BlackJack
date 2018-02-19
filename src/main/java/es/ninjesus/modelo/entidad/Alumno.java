@@ -1,4 +1,4 @@
-package examen.entity;
+package es.ninjesus.modelo.entidad;
 
 import javax.persistence.*;
 

@@ -1,4 +1,4 @@
-package es.ninjesus.modelo;
+package es.ninjesus.controladores;
 
 public class Carta {
 

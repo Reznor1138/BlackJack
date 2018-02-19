@@ -1,8 +1,8 @@
 package es.ninjesus.vista;
 
-import es.ninjesus.cores.Carta;
-import es.ninjesus.cores.Jugador;
-import es.ninjesus.cores.Tablero;
+import es.ninjesus.controladores.Carta;
+import es.ninjesus.controladores.Jugador;
+import es.ninjesus.controladores.Tablero;
 
 import javax.swing.*;
 import java.awt.*;

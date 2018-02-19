@@ -1,4 +1,4 @@
-package examen;
+package es.ninjesus.modelo;
 
 import java.util.Properties;
 
